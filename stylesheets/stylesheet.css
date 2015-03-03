@@ -595,6 +595,7 @@ table {
 th {
   font-weight: 500;
   background-color: #2F7CCD;
+  border: 1px solid #474747;
   color: #9ddcff;
 }
 
