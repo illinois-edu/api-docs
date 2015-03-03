@@ -594,6 +594,7 @@ table {
 
 th {
   font-weight: 500;
+  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
 }
 
 td {
